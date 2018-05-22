@@ -12,5 +12,6 @@ Utiliza o Framework Spring Boot, o método **main** fica na classe *App.java*
 Utiliza o Framework CapivaraJS junto com suas dependências
 Para subir o servidor front:
 ```shell
+~/passwordVerify/cp-pass-verifier$ npm install
 ~/passwordVerify/cp-pass-verifier$ npm run dev
 ```
